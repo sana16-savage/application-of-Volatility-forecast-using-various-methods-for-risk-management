@@ -1,3 +1,6 @@
+file - [bitcoin.ipynb](https://github.com/user-attachments/files/33660331/bitcoin.ipynb)
+
+
 STAGE 1: Data Ingestion and Feature Engineering1. 
 MethodologyThe objective of Stage 1 was to build a robust, institutional-grade historical database pulling directly from the Binance Futures API. 
 To ensure data integrity and prevent look-ahead bias or missing information, 
